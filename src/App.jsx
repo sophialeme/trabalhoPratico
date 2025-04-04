@@ -9,7 +9,7 @@ function App() {
       <Header/>
       <Banner/>
       <ProductList/>
-      <header className="header2">
+      <footer className="footer">
         <div className="img">
         <img className="logo" src="https://img.icons8.com/?size=100&id=DMouakoWuTB6&format=png&color=000000"/>
         </div>
@@ -40,7 +40,7 @@ function App() {
                 <li>MG / 39567 - 123</li>
             </ul>
         </div>
-      </header>
+      </footer>
     </>
   )
 }
